@@ -1,0 +1,20 @@
+{
+  "id": "text_centered",
+  "type": "SharedSlice",
+  "name": "TextCentered",
+  "description": "Centered text block with a title and a paragraph.",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default Variation",
+      "description": "Default variation with all fields",
+      "primary": {
+        "title": {"type": "Text", "config": {"label": "Title"}},
+        "paragraph": {"type": "Text", "config": {"label": "Paragraph"}}
+      },
+      "docURL": "...",
+      "version": "initial",
+      "imageUrl": ""
+    }
+  ]
+}

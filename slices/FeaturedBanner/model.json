@@ -1,0 +1,24 @@
+{
+    "id": "featured_banner",
+    "type": "SharedSlice",
+    "name": "FeaturedBanner",
+    "description": "A banner featuring a talk with a title, description, and image.",
+    "variations": [
+      {
+        "id": "default",
+        "name": "Default Variation",
+        "description": "Default variation with all fields",
+        "primary": {
+          "feature_title": {"type": "Text", "config": {"label": "Feature Title"}},
+          "main_title": {"type": "Text", "config": {"label": "Main Title"}},
+          "description": {"type": "Text", "config": {"label": "Description"}},
+          "button_text": {"type": "Text", "config": {"label": "Button Text"}},
+          "image": {"type": "Image", "config": {"label": "Image", "constraint":{"width": 800, "height": 500}, "thumbnails":[]}}
+        },
+        "docURL": "...",
+        "version": "initial",
+        "imageUrl": ""
+      }
+    ]
+  }
+  

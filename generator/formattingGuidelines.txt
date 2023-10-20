@@ -1,0 +1,7 @@
+Texts are readable, check especially the contrast with the background.
+Use unsplash random for images.
+The image size should not depend on the image, the image must be cropped if necessary.
+use brackets to specify custom tailwind style values bg-[#50d71e]
+avoid using relative positionning if possible
+Component should be responsive.
+Just return the component without comments.

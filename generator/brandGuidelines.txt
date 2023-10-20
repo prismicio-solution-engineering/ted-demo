@@ -1,0 +1,13 @@
+website description:
+website of a company organizing talks from expert speakers on education, business, science, tech and creativity, with subtitles in 100+ languages.
+
+brand guidelines:
+- no border radius
+- light drop shadow
+- main color: #eb0028 black and white
+- text color: #555555\n- background color: white or #ffefa1 sometimes
+- Font: Inter
+- Padding is consistent and everywhere, even in buttons, it's of 12px between horizontal elements and there is always a minimum of 40px on the sides of the sections.
+- Texts, buttons are always left-aligned on the page and in sections
+- Elements are evenly distributed across the width of the section
+- dropdowns buttons have a visible default value.

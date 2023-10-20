@@ -1,0 +1,36 @@
+{
+    "id": "video_carousel",
+    "type": "SharedSlice",
+    "name": "VideoCarousel",
+    "description": "Carousel for displaying videos with two variations for layout sizes.",
+    "variations": [
+      {
+        "id": "default",
+        "name": "Default Variation",
+        "description": "Standard video carousel layout.",
+        "items": {
+          "video_image": {"type": "Image", "config": {"label": "Video Image", "constraint":{"width": 800, "height": 500}, "thumbnails":[]}},
+          "video_title": {"type": "Text", "config": {"label": "Video Title"}},
+          "video_author": {"type": "Text", "config": {"label": "Author"}}
+        },
+        "docURL": "...",
+        "version": "initial",
+        "imageUrl": ""
+      },
+      {
+        "id": "small",
+        "name": "Small Variation",
+        "description": "Smaller video carousel layout.",
+        "items": {
+          "video_image": {"type": "Image", "config": {"label": "Video Image", "constraint":{"width": 800, "height": 500}, "thumbnails":[]}},
+          "video_title": {"type": "Text", "config": {"label": "Video Title"}},
+          "video_author": {"type": "Text", "config": {"label": "Author"}},
+          "video_month": {"type": "Text", "config": {"label": "Month"}}
+        },
+        "docURL": "...",
+        "version": "initial",
+        "imageUrl": ""
+      }
+    ]
+  }
+  

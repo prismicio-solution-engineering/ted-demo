@@ -1,0 +1,49 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "WATCH NOW"
+			},
+			"main_title": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Expert talks on education, business & tech"
+			},
+			"description": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Listen to our latest talk about the importance of creativity in education."
+			},
+			"feature_title": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "FEATURE"
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"url": "https://images.unsplash.com/photo-1560439514-e960a3ef5019?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxzcGVha2VyJTIwb24lMjBzdGFnZXxlbnwwfHx8fDE2OTc3OTUzMjR8MA&ixlib=rb-4.0.3&q=85",
+				"origin": {
+					"id": "DL-yyYDDNX4",
+					"url": "https://images.unsplash.com/photo-1560439514-e960a3ef5019?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxzcGVha2VyJTIwb24lMjBzdGFnZXxlbnwwfHx8fDE2OTc3OTUzMjR8MA&ixlib=rb-4.0.3&q=85",
+					"width": 6000,
+					"height": 4000
+				},
+				"width": 6000,
+				"height": 4000,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		},
+		"items": []
+	}
+]
